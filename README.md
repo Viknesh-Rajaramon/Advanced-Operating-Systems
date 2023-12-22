@@ -2,10 +2,10 @@
 
 In ASU's Advanced Operating System course (CSE 536), we are using the xv6 Operating System for programming assignments. xv6 is a teaching-focused OS designed by some incredible folks at MIT ([link](https://github.com/mit-pdos/xv6-riscv.git)). This README explains how to setup QEMU and a GNU RISC-V toolchain, needed for running xv6, as well how to boot up a QEMU VM with xv6.
 
-- <a href ="https://github.com/Viknesh-Rajaramon/Arizona-State-University-ASU/tree/master/Advanced-Operating-Systems/Lab1-Bootloader">Boot Rom and Bootloader</a>
-- <a href ="https://github.com/Viknesh-Rajaramon/Arizona-State-University-ASU/tree/master/Advanced-Operating-Systems/Lab2-Memory">Process Memory Management</a>
-- <a href ="https://github.com/Viknesh-Rajaramon/Arizona-State-University-ASU/tree/master/Advanced-Operating-Systems/Lab3-Threads">User-Level Thread Management</a>
-- <a href ="https://github.com/Viknesh-Rajaramon/Arizona-State-University-ASU/tree/master/Advanced-Operating-Systems/Lab4-Trap-and-Emulate">Trap and Emulate Virtualization</a>
+- <a href ="https://github.com/Viknesh-Rajaramon/Advanced-Operating-Systems/tree/master/Lab1-Bootloader">Boot Rom and Bootloader</a>
+- <a href ="https://github.com/Viknesh-Rajaramon/Advanced-Operating-Systems/tree/master/Lab2-Memory">Process Memory Management</a>
+- <a href ="https://github.com/Viknesh-Rajaramon/Advanced-Operating-Systems/tree/master/Lab3-Threads">User-Level Thread Management</a>
+- <a href ="https://github.com/Viknesh-Rajaramon/Advanced-Operating-Systems/tree/master/Lab4-Trap-and-Emulate">Trap and Emulate Virtualization</a>
 
 Follow the below steps to setup necessary dependencies for developing xv6 OS.
 
