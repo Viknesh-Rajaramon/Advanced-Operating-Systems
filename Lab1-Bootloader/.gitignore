@@ -1,0 +1,4 @@
+.DS_Store
+/install/riscv-*
+/install/qemu*
+.vscode
